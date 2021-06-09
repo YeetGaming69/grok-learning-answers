@@ -1,0 +1,6 @@
+n1 = input('Number 1: ')
+n2 = input('Number 2: ')
+r1 = int(n1) + int(n2)
+r2 = int(n1) * int(n2)
+print(str(n1) + ' plus ' + str(n2) + ' is ' + str(r1))
+print(str(n1) + ' times ' + str(n2) + ' is ' + str(r2))
